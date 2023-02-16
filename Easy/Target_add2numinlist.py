@@ -20,5 +20,4 @@ if indecs==0:
     print("No solution")
 else:
     print(indecs)
-
 #hello
